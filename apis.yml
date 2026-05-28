@@ -1,0 +1,32 @@
+aid: xmath
+name: xMath
+description: "Random mathematical expressions"
+url: https://x-math.herokuapp.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: xMath
+    description: "Random mathematical expressions"
+    humanURL: https://x-math.herokuapp.com/
+    baseURL: https://x-math.herokuapp.com/
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://x-math.herokuapp.com/
+common:
+  - type: Website
+    url: https://x-math.herokuapp.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
