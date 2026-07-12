@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://x-math.herokuapp.com/
 common:
+  - type: DomainSecurity
+    url: security/xmath-domain-security.yml
   - type: Website
     url: https://x-math.herokuapp.com/
   - type: PublicAPIsListing
