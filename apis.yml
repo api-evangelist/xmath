@@ -33,13 +33,12 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Mathematics
 apis:
   - name: xMath
     description: "Random mathematical expressions"
     humanURL: https://x-math.herokuapp.com/
-    baseURL: https://x-math.herokuapp.com/
     tags:
       - Science And Math
     properties:
@@ -55,3 +54,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
